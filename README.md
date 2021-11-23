@@ -4,7 +4,7 @@
   
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello,%20I'm%20Iron&fontSize=60&animation=fadeIn&fontAlignY=32&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello,%20I'm%20Iron&fontSize=60&animation=fadeIn&fontAlignY=32&desc=Always%20apperciate%20your%20feedback.&descAlignY=51&descAlign=62)
 
 <h3 align=center>Tech & Collabo</h3>
 
@@ -20,17 +20,16 @@
 </p>
   
 ## Interest
-
 - Application architecture
 - Clean code
 - Math
 - Soccer
 
-<hr>
 
 <div align=center>  
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imabubblyiron&show_icons=true&theme=tokyonight) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=satls34)](https://solved.ac/satls34/)
+  
 </div>
 
 
