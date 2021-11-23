@@ -25,32 +25,17 @@
 - Clean code
 - Math
 - Soccer
-  
 
 <hr>
 
-
-
-<div>
+<div align=center>  
   
-  <div align=center>
-  
-  ![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={satls34})](https://solved.ac/{satls34})</a> &nbsp
-
-  </div>
-  
-  <div align=center>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imabubblyiron&show_icons=true&theme=tokyonight)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imabubblyiron&layout=compact&theme=tokyonight)
-  
-  </div>
-  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imabubblyiron&show_icons=true&theme=tokyonight) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=satls34)](https://solved.ac/satls34/)
 </div>
 
 
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imabubblyiron&layout=compact&theme=tokyonight)
 **Imabubblyiron/Imabubblyiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
