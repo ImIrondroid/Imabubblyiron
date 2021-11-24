@@ -17,11 +17,13 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=GitScript&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Linux-1793d1?style=flat-square&logo=Linux&logoColor=white"/></a> &nbsp
 </p>
   
 ## Interest
 - Application architecture
 - Clean code
+- Algorithm
 - Math
 - Soccer
 
